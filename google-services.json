@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "486602886759",
+    "firebase_url": "https://barcodemevir-default-rtdb.firebaseio.com",
+    "project_id": "barcodemevir",
+    "storage_bucket": "barcodemevir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486602886759:android:f05071410030f07b304ec2",
+        "android_client_info": {
+          "package_name": "org.mevir.barcodereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486602886759-tfo50i8c6baukj07arbp2qq04e10affi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwgcOmg0DpmMXtiAkKMLwkUnxQAdmAiko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486602886759-tfo50i8c6baukj07arbp2qq04e10affi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
